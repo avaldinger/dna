@@ -20,8 +20,8 @@ The application can be run locally or using the [![CS50 Badge](https://img.shiel
 
 To run the program:
  1. You need to have Python installed or using the CS50 IDE
- 2. To run: $ python dna.py
- 3. Usage: python dna.py data.csv sequence.txt
+ 2. To run: `$ python dna.py`
+ 3. Usage: `python dna.py data.csv sequence.txt`
  
 ### Technologies
  
